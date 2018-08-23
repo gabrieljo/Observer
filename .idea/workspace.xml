@@ -1,0 +1,674 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/application/views/web/main.php" line="192" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="926514e1-78d8-40a4-bebe-c7b4667ec15c" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_TABLE_DETAILS" value="true" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <expand />
+    <select />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="composer.json" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/composer.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>update</find>
+      <find>update_deta</find>
+      <find>prod_name</find>
+      <find>all_detail_db_update</find>
+      <find>가격</find>
+      <find>get_detail_shop_list</find>
+      <find>get_</find>
+      <find>get_detail_</find>
+      <find>detail_shop_add</find>
+      <find>add_sub_product</find>
+      <find>add_product</find>
+      <find>no =</find>
+      <find>Mdetail-&gt;add_r</find>
+      <find>\n                                overflow\: \&quot;visible\&quot;\,</find>
+      <find>add_member</find>
+      <find>카테고리 관리</find>
+      <find>카테고리</find>
+      <find>Self</find>
+      <find>타겟북</find>
+      <find>Self Service Guide</find>
+      <find>Category</find>
+      <find>category</find>
+      <find>ca</find>
+      <find>Categor</find>
+      <find>가이드</find>
+      <find>Quick Actions</find>
+      <find>로그인</find>
+      <find>무료 회원</find>
+      <find>업자등록</find>
+      <find>login_log</find>
+    </findStrings>
+    <dirStrings>
+      <dir>C:\work\observer_webserver\application\config</dir>
+      <dir>C:\work\observer_webserver\application\views</dir>
+      <dir>C:\work\observer_webserver</dir>
+    </dirStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/application/helpers/common_helper.php" />
+        <option value="$PROJECT_DIR$/application/views/main/default.php" />
+        <option value="$PROJECT_DIR$/application/views/web/js/web/naver_keyword_list.js" />
+        <option value="$PROJECT_DIR$/application/views/web/naver_keyword_add.php" />
+        <option value="$PROJECT_DIR$/application/views/web/naver_keyword_edit.php" />
+        <option value="$PROJECT_DIR$/application/views/main/home.php" />
+        <option value="$PROJECT_DIR$/application/config/routes.php" />
+        <option value="$PROJECT_DIR$/application/views/main/css/coming_soon.css" />
+        <option value="$PROJECT_DIR$/application/views/main/css/color_01.css" />
+        <option value="$USER_HOME$/Downloads/themeforest-18946350-fedrexmultipourpose-saas-product-template/main-file/signup.html" />
+        <option value="$PROJECT_DIR$/application/controllers/Main.php" />
+        <option value="$PROJECT_DIR$/application/views/main/js/custom.js" />
+        <option value="$PROJECT_DIR$/application/views/main/css/style.css" />
+        <option value="$PROJECT_DIR$/application/views/web/js/vendors.bundle.js" />
+        <option value="$PROJECT_DIR$/application/views/web/js/scripts.bundle.js" />
+        <option value="$PROJECT_DIR$/application/views/main/join.php" />
+        <option value="$PROJECT_DIR$/application/views/main/js/join.js" />
+        <option value="$PROJECT_DIR$/application/views/web/detail_shop_add.php" />
+        <option value="$PROJECT_DIR$/application/libraries/Scrap.php" />
+        <option value="$PROJECT_DIR$/application/views/web/detail_shop_sub_add.php" />
+        <option value="$PROJECT_DIR$/application/views/web/js/web/detail_shop.js" />
+        <option value="$PROJECT_DIR$/application/views/web/detail_shop_edit.php" />
+        <option value="$PROJECT_DIR$/application/views/web/detail_shop_log.php" />
+        <option value="$PROJECT_DIR$/application/models/Mnaver.php" />
+        <option value="$PROJECT_DIR$/application/models/Mupdate.php" />
+        <option value="$PROJECT_DIR$/application/models/Mdetail.php" />
+        <option value="$PROJECT_DIR$/application/controllers/Web_act.php" />
+        <option value="$PROJECT_DIR$/application/views/web/js/web/detail_shop_list.js" />
+        <option value="$PROJECT_DIR$/application/views/web/main.php" />
+        <option value="$PROJECT_DIR$/application/controllers/Main_act.php" />
+        <option value="$PROJECT_DIR$/application/views/web/category_list.php" />
+        <option value="$PROJECT_DIR$/application/controllers/Web.php" />
+        <option value="$PROJECT_DIR$/application/views/web/js/web/naver_shop_list.js" />
+        <option value="$PROJECT_DIR$/application/views/web/js/web/category.js" />
+        <option value="$PROJECT_DIR$/application/views/web/login.php" />
+        <option value="$PROJECT_DIR$/application/views/guide/_footer.php" />
+        <option value="$PROJECT_DIR$/application/views/web/detail_shop_list.php" />
+        <option value="$PROJECT_DIR$/application/views/web/naver_keyword_list.php" />
+        <option value="$PROJECT_DIR$/application/views/web/_head.php" />
+        <option value="$PROJECT_DIR$/application/controllers/Guide.php" />
+        <option value="$PROJECT_DIR$/application/views/main/index.php" />
+        <option value="$PROJECT_DIR$/application/views/web/_footer.php" />
+        <option value="$PROJECT_DIR$/application/views/guide/detail.php" />
+        <option value="$PROJECT_DIR$/application/views/guide/main.php" />
+        <option value="$PROJECT_DIR$/application/views/guide/naver_keyword.php" />
+        <option value="$PROJECT_DIR$/application/views/guide/naver_price.php" />
+        <option value="$PROJECT_DIR$/application/views/guide/tag.php" />
+        <option value="$PROJECT_DIR$/application/views/guide/_head.php" />
+        <option value="$PROJECT_DIR$/application/views/guide/css/academy.css" />
+        <option value="$PROJECT_DIR$/application/models/Mmember.php" />
+        <option value="$PROJECT_DIR$/application/views/web/naver_shop_list.php" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsFlowSettings">
+    <service-enabled>false</service-enabled>
+    <exe-path />
+    <annotation-enable>false</annotation-enable>
+    <other-services-enabled>false</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="1912" />
+    <option name="y" value="-8" />
+    <option name="width" value="1936" />
+    <option name="height" value="1056" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="observer_webserver" type="b2602c69:ProjectViewProjectNode" />
+              <item name="observer_webserver" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="settings.editor.selected.configurable" value="web-ide.project.structure" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.size" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.date" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.permissions" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.symlinks" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.mappings" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\work\observer_webserver\application\views\main\favicon" />
+      <recent name="C:\work\observer_webserver\application\libraries" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\work\observer_webserver\application\views\guide\img" />
+      <recent name="C:\work\observer_webserver\application\views\guide" />
+      <recent name="C:\work\observer_webserver\application\views\web" />
+      <recent name="C:\work\observer_webserver\application\views\main" />
+      <recent name="C:\work\observer_webserver\application\views\main\images" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="926514e1-78d8-40a4-bebe-c7b4667ec15c" name="Default" comment="" />
+      <created>1508477382582</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1508477382582</updated>
+      <workItem from="1508477383895" duration="3594000" />
+      <workItem from="1508729216252" duration="2260000" />
+      <workItem from="1508807318502" duration="1155000" />
+      <workItem from="1508816164501" duration="6590000" />
+      <workItem from="1508830166021" duration="4736000" />
+      <workItem from="1508835605757" duration="60000" />
+      <workItem from="1508900471801" duration="1693000" />
+      <workItem from="1508902199827" duration="9592000" />
+      <workItem from="1508980443491" duration="916000" />
+      <workItem from="1508984301918" duration="13385000" />
+      <workItem from="1509000166090" duration="3561000" />
+      <workItem from="1509004136490" duration="1477000" />
+      <workItem from="1509062577009" duration="8925000" />
+      <workItem from="1509075021240" duration="15308000" />
+      <workItem from="1509322152770" duration="7299000" />
+      <workItem from="1509334037513" duration="2855000" />
+      <workItem from="1509338007184" duration="5798000" />
+      <workItem from="1509345441115" duration="527000" />
+      <workItem from="1509346024866" duration="5091000" />
+      <workItem from="1509408158350" duration="3754000" />
+      <workItem from="1509416243382" duration="12670000" />
+      <workItem from="1509496679712" duration="19082000" />
+      <workItem from="1509582984676" duration="11991000" />
+      <workItem from="1509610622010" duration="199000" />
+      <workItem from="1509669516468" duration="3767000" />
+      <workItem from="1509692346054" duration="1601000" />
+      <workItem from="1509927925209" duration="1530000" />
+      <workItem from="1509953878659" duration="4713000" />
+      <workItem from="1510013765606" duration="8707000" />
+      <workItem from="1510025375868" duration="1876000" />
+      <workItem from="1510031274136" duration="2431000" />
+      <workItem from="1510126953104" duration="1795000" />
+      <workItem from="1510185569901" duration="21586000" />
+      <workItem from="1510538514140" duration="4661000" />
+      <workItem from="1510556533315" duration="599000" />
+      <workItem from="1510624305278" duration="13795000" />
+      <workItem from="1510643413988" duration="4516000" />
+      <workItem from="1510704223966" duration="921000" />
+      <workItem from="1510706431823" duration="8000" />
+      <workItem from="1510912151032" duration="579000" />
+      <workItem from="1511136299826" duration="606000" />
+      <workItem from="1511148634594" duration="203000" />
+      <workItem from="1511159117724" duration="2119000" />
+      <workItem from="1511165574929" duration="4000" />
+      <workItem from="1511223898668" duration="2408000" />
+      <workItem from="1511229884090" duration="7155000" />
+      <workItem from="1511309380150" duration="200000" />
+      <workItem from="1511312876769" duration="1598000" />
+      <workItem from="1511328642636" duration="607000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="230503000" />
+  </component>
+  <component name="TodoView" selected-index="2">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="1912" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32995737" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.16950959" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.21304348" sideWeight="0.49573562" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.20108695" sideWeight="0.4904051" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32995737" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.14392324" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.1597826" sideWeight="0.4914712" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="File Transfer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20108695" sideWeight="0.50959486" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32934782" sideWeight="0.49573562" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="4" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/application/views/web/js/web/naver_keyword_list.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-132">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/libraries/Scrap.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="541">
+          <caret line="306" column="20" lean-forward="true" selection-start-line="306" selection-start-column="20" selection-end-line="306" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/web/detail_shop_add.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="335">
+          <caret line="58" column="43" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="110" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/web/naver_shop_edit.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="352">
+          <caret line="16" column="143" lean-forward="false" selection-start-line="16" selection-start-column="128" selection-end-line="16" selection-end-column="143" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/web/detail_shop_edit.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="346">
+          <caret line="68" column="48" lean-forward="true" selection-start-line="68" selection-start-column="48" selection-end-line="68" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/web/detail_shop_log.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1562">
+          <caret line="71" column="6" lean-forward="false" selection-start-line="71" selection-start-column="6" selection-end-line="71" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/web/naver_shop_log.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22">
+          <caret line="1" column="27" lean-forward="true" selection-start-line="1" selection-start-column="27" selection-end-line="1" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/web/js/web/naver_shop.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="17" column="36" lean-forward="true" selection-start-line="17" selection-start-column="36" selection-end-line="17" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/web/js/web/detail_shop.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="707">
+          <caret line="58" column="36" lean-forward="true" selection-start-line="58" selection-start-column="36" selection-end-line="58" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/models/Mnaver.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="86">
+          <caret line="517" column="0" lean-forward="false" selection-start-line="517" selection-start-column="0" selection-end-line="524" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/language/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/language/english/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/models/Mupdate.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="462">
+          <caret line="97" column="5" lean-forward="true" selection-start-line="97" selection-start-column="5" selection-end-line="97" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/models/Mdetail.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="377">
+          <caret line="90" column="42" lean-forward="false" selection-start-line="90" selection-start-column="42" selection-end-line="90" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/controllers/Web_act.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="117">
+          <caret line="831" column="0" lean-forward="true" selection-start-line="831" selection-start-column="0" selection-end-line="831" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/web/js/web/detail_shop_list.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="147" column="55" lean-forward="true" selection-start-line="147" selection-start-column="55" selection-end-line="147" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/controllers/Main_act.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="311">
+          <caret line="59" column="43" lean-forward="true" selection-start-line="59" selection-start-column="43" selection-end-line="59" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/web/js/web/naver_shop_list.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="236">
+          <caret line="182" column="30" lean-forward="false" selection-start-line="182" selection-start-column="30" selection-end-line="182" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/web/js/web/category.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="440">
+          <caret line="20" column="0" lean-forward="true" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/controllers/Main.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="8" column="30" lean-forward="true" selection-start-line="8" selection-start-column="30" selection-end-line="8" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/web/detail_shop_sub_add.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/web/naver_keyword_edit.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="509">
+          <caret line="168" column="0" lean-forward="false" selection-start-line="168" selection-start-column="0" selection-end-line="170" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/guide/img/product_catalog01.png" />
+    <entry file="file://$PROJECT_DIR$/application/views/guide/img/product_catalog02.png" />
+    <entry file="file://$PROJECT_DIR$/application/views/guide/img/product_catalog07.png" />
+    <entry file="file://$PROJECT_DIR$/application/views/guide/img/product_catalog06.png" />
+    <entry file="file://$PROJECT_DIR$/application/views/guide/img/logo.png" />
+    <entry file="file://$PROJECT_DIR$/application/views/web/naver_shop_add.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="302">
+          <caret line="58" column="48" lean-forward="false" selection-start-line="58" selection-start-column="48" selection-end-line="58" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/web/category_list.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="7" column="30" lean-forward="false" selection-start-line="7" selection-start-column="30" selection-end-line="7" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/web/naver_keyword_list.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="117">
+          <caret line="77" column="52" lean-forward="false" selection-start-line="77" selection-start-column="52" selection-end-line="77" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/web/detail_shop_list.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="93" column="52" lean-forward="false" selection-start-line="93" selection-start-column="52" selection-end-line="93" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/controllers/Guide.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="443">
+          <caret line="38" column="5" lean-forward="true" selection-start-line="38" selection-start-column="5" selection-end-line="38" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/web/login.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="400">
+          <caret line="41" column="41" lean-forward="true" selection-start-line="41" selection-start-column="41" selection-end-line="41" selection-end-column="105" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/web/main.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="218">
+          <caret line="27" column="40" lean-forward="false" selection-start-line="27" selection-start-column="40" selection-end-line="27" selection-end-column="40" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/main/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="550">
+          <caret line="161" column="26" lean-forward="true" selection-start-line="161" selection-start-column="26" selection-end-line="161" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/guide/_footer.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" column="7" lean-forward="false" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/web/_footer.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="17" column="44" lean-forward="false" selection-start-line="17" selection-start-column="44" selection-end-line="17" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/web/category_add.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="19" column="85" lean-forward="true" selection-start-line="19" selection-start-column="85" selection-end-line="19" selection-end-column="85" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/web/_head.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="792">
+          <caret line="36" column="4" lean-forward="false" selection-start-line="36" selection-start-column="4" selection-end-line="36" selection-end-column="78" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/guide/detail.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" column="31" lean-forward="false" selection-start-line="2" selection-start-column="31" selection-end-line="2" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/guide/main.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" column="35" lean-forward="false" selection-start-line="2" selection-start-column="35" selection-end-line="2" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/guide/naver_price.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" column="31" lean-forward="false" selection-start-line="2" selection-start-column="31" selection-end-line="2" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/guide/tag.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="8" column="12" lean-forward="true" selection-start-line="8" selection-start-column="12" selection-end-line="8" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/guide/_head.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="506">
+          <caret line="23" column="20" lean-forward="false" selection-start-line="23" selection-start-column="20" selection-end-line="23" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/models/Mmember.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4906">
+          <caret line="228" column="53" lean-forward="false" selection-start-line="228" selection-start-column="53" selection-end-line="228" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/web/naver_shop_list.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3410">
+          <caret line="155" column="0" lean-forward="false" selection-start-line="155" selection-start-column="0" selection-end-line="157" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/guide/naver_keyword.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="14" column="35" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="50" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/controllers/Web.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5830">
+          <caret line="265" column="5" lean-forward="false" selection-start-line="265" selection-start-column="5" selection-end-line="265" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/guide/css/academy.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="7700">
+          <caret line="350" column="22" lean-forward="false" selection-start-line="350" selection-start-column="22" selection-end-line="350" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/main/css/bootstrap.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22">
+          <caret line="136" column="1" lean-forward="false" selection-start-line="136" selection-start-column="1" selection-end-line="136" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/composer.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

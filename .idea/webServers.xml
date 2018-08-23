@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="b3860672-71b2-4968-b4d3-4c983b2841d4" name="observer" url="http://45.32.52.192">
+        <fileTransfer host="45.32.52.192" port="21" rootFolder="/usr/share/nginx/html">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
